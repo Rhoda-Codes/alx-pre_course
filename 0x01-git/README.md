@@ -1,1 +1,1 @@
-my second commit
+Rhoda is a frontend website developer
